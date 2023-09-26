@@ -5,7 +5,7 @@
 
 - `python -m venv env` - now create ENVironment
 
-- `.\env\Scripts\Activate` - Activate ur env 
+- `.\env\Scripts\Activate` or `source env/bin/activate` for Linux or MacOS - Activate ur env
 
 - `pip install -r requirements.txt` - installing
 
