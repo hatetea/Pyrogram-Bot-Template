@@ -9,7 +9,7 @@
 
 - `pip install -r requirements.txt` - installing
 
-Create environment variables in config.env
+## Create environment variables in config.env
 
 * `API_ID (integer)` - Telegram API ID 
 * `API_HASH (string)` - Telegram APP HASH (Get these two values from my.telegram.org/apps.)
